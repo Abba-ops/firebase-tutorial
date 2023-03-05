@@ -1,0 +1,14 @@
+.app {
+  margin: auto;
+  width: 30rem;
+  border: 2px outset whitesmoke;
+  padding: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.user {
+  background-color: whitesmoke;
+  padding: 10px;
+  height: max-content;
+  margin: 10px;
+}
